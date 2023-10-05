@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "moeto-myasto",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
